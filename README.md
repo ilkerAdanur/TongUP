@@ -40,30 +40,13 @@ Oyunlaştırma: Firebase ile rozet ve başarı sistemi
 Bu projeyi kendi bilgisayarınızda çalıştırmak için aşağıdaki adımları izleyebilirsiniz:
 
 Depoyu klonlayın:
-
-bash
-Kopyala
-Düzenle
 git clone https://github.com/username/project-name.git
 Bağımlılıkları yükleyin:
-
-bash
-Kopyala
-Düzenle
 npm install
 React Native projesini çalıştırın:
-
 Android:
-
-bash
-Kopyala
-Düzenle
 npx react-native run-android
 iOS:
-
-bash
-Kopyala
-Düzenle
 npx react-native run-ios
 Firebase ile Entegrasyon
 Firebase projenizi kurun ve google-services.json (Android) veya GoogleService-Info.plist
